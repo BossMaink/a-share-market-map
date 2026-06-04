@@ -9,7 +9,6 @@ lerna-debug.log*
 
 .env
 .venv/
-public/data/
 node_modules
 dist
 dist-ssr
